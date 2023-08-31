@@ -1,0 +1,25 @@
+
+{
+    "chain_name": "lightmos",
+    "coingecko": "",
+    "api": [
+        "https://cm2.erbie.io"
+    ],
+    "rpc": [
+        "https://cm1.erbie.io"
+    ],
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "sdk_version": "0.47.3",
+    "addr_prefix": "cosmos",
+    "logo": "https://global.erbie.io/favicon.ico",
+    "assets": [
+        {
+            "base": "aconst",
+            "symbol": "MARS",
+            "exponent": "18",
+            "coingecko_id": "",
+            "logo": "https://global.erbie.io/favicon.ico"
+        }
+    ]
+}
